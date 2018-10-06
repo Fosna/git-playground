@@ -7,3 +7,4 @@ cow
 dog
 fish
 goose
+horse
